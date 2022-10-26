@@ -148,8 +148,6 @@ with open(complete_name, 'w') as f:
 end = time.time()
 print("Toplam sure:", int((end - start)//60), "dk", (end-start)%60, "sn" )
 
-print("Bu bir testtir")
-
 # timeit.report()
 
 # plt.show()
