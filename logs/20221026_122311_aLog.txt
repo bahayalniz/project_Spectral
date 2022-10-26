@@ -1,0 +1,6 @@
+Date: 20221026_122311
+Data File: data_elcentro.txt
+dt: 1e-06
+Min T: 1
+Max T: 15
+Spectral Interval: 0.1

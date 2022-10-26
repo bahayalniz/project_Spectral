@@ -1,0 +1,6 @@
+Date: 20221026_123115
+Data File: data_sanJose_Time-Adjusted.txt
+dt: 1e-05
+Min T: 1
+Max T: 40
+Spectral Interval: 0.1
